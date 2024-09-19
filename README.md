@@ -1,5 +1,5 @@
 # Hey there! 👋  
-Aspiring Software Developer on a journey from Psychology and Retail into the tech world. I've never faced struggles quite like these, and I’ve never been more excited to solve problems. Every new challenge makes me feel more alive in this world of code! Ready to build solutions that connect both people and technology. 
+Aspiring Software Developer on an evolving journey from Psychology and Retail into tech. The hurdles have been steep — grappling with code complexities and moments of self-doubt have been constant companions. Yet, it's these very struggles that have fueled my growth. With each obstacle, I learn, adapt, and grow stronger. And while the challenges often seem daunting, they bring an undeniable excitement when the solution finally falls into place. My goal is to build technology that fosters real connections between people.
 
 *“The only person who is educated is the one who has learned how to learn and change.”*  
 — *Carl Rogers*

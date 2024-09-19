@@ -11,5 +11,5 @@ Follow my journey and connect with me on LinkedIn!
 ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Express](https://img.shields.io/badge/-Express-gray) ![Postgres](https://img.shields.io/badge/-PostgreSQL-blue) ![GitHub](https://img.shields.io/badge/-GitHub-black)
 
 ## Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://[www.linkedin.com/in/your-profile](https://www.linkedin.com/in/amin-abdikadir-b12267297/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://[www.linkedin.com/in/your-profile](https://www.linkedin.com/in/amin-abdikadir-b12267297/)
 

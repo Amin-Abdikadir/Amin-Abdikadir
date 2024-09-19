@@ -6,8 +6,7 @@ Aspiring Software Developer on an evolving journey from Psychology and Retail in
 
 Follow my journey 
 
-## 🛠️ Languages and Tools | 🧪 Testing Tools | 📊 Project Management
-
+## 🛠️ Languages and Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -19,11 +18,13 @@ Follow my journey
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
+## 🧪 Testing Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
+## 📊 Project Management  
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
@@ -33,6 +34,10 @@ Follow my journey
 </p>
 
 ## Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-abdikadir-b12267297/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amin-abdikadir-b12267297/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 

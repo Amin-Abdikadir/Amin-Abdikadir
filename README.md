@@ -1,10 +1,4 @@
-# Hey there! 👋  
-Aspiring Software Developer on an evolving journey from Psychology and Retail into tech. The hurdles have been steep — grappling with code complexities and moments of self-doubt have been constant companions. Yet, it's these very struggles that have fueled my growth. With each obstacle, I learn, adapt, and grow stronger. And while the challenges often seem daunting, they bring an undeniable excitement when the solution finally falls into place. My goal is to build technology that fosters real connections between people.
 
-*“The only person who is educated is the one who has learned how to learn and change.”*  
-— *Carl Rogers*
-
-Follow my journey 
 
 ## 🛠️ Languages and Tools  
 <p align="center">
